@@ -20,3 +20,7 @@ phases:
 artifacts:
   files:
     - index.js
+    - app.json
+    - package.json
+    - node_modules/async/*
+    - node_modules/lodash/*
